@@ -19,6 +19,7 @@ struct produto
 
 int main()
 {
+    printf("Exemplo de struct simples:");
 
   // declaração de variável
   struct produto varprod1, varprod2;
